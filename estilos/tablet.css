@@ -3,18 +3,17 @@
 /*versao para tablet*/
 
 @media screen and(min-width:768px)and (max-width:992px){
-    
+   
+     
 }
-
-
-
-body,html{
-
+body{
     background-image: linear-gradient(to bottom, #0D6578, #A9B7BB) ;
-    
 }
 
 
 
+
+
+/*telas muito grandes*/
 
 

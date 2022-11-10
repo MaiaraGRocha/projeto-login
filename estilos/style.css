@@ -13,7 +13,7 @@
 body,html{
     margin: 0px;
     padding: 0px;
-    background-color:#0d647883 ;
+    background-color:#0d6478a2 ;
     height: 100vh;
     width: 100vw;  /*centralizar bloco em qualquer tamanho de tela*/
     box-sizing: border-box;
@@ -27,7 +27,7 @@ main{
    
 }
 
-section#geral{   
+section{   
     position: absolute;   /*centralizar bloco em qualquer tamanho de tela*/
     left: 50%;
     top: 50%;
