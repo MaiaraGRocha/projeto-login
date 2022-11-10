@@ -1,0 +1,20 @@
+@charset "UTF-8";
+
+/*versao para tablet*/
+
+@media screen and(min-width:768px)and (max-width:992px){
+    
+}
+
+
+
+body,html{
+
+    background-image: linear-gradient(to bottom, #0D6578, #A9B7BB) ;
+    
+}
+
+
+
+
+
