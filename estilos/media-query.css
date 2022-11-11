@@ -9,14 +9,21 @@
 
     section{
         width: 80%;
-        height: 40vh;
+        height: 40vh;   
         
     }
 
     #img{
         float: left;
-        width: 30%;
+        width: 40%;
         height: 100%;
+    }
+
+    #login{
+        float: right;
+        width: 50%;   
+        height: 100%;     
+        
     }
 
 
@@ -35,8 +42,19 @@
     }
     #img{
         float: right;
-        width: 50%;
+        width: 40%;         
         height: 100%;
+    }
+    
+    #login{
+        float: right;
+        width: 50%;         
+        
+    }
+    section{
+        width: 80%;
+        height: 40vh;   /*colocar float e width no #login*/
+        
     }
    
 }
