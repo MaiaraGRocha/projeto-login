@@ -23,3 +23,20 @@
 }
 
 
+@media screen and ( min-width:992px) {
+    body{
+        background-image: linear-gradient(to bottom, #053c44, #999fa1 );
+
+    }
+    
+    section{
+        width: 80%;
+        height: 30vh;
+    }
+    #img{
+        float: right;
+        width: 50%;
+        height: 100%;
+    }
+   
+}
