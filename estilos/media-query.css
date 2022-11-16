@@ -8,8 +8,9 @@
     }
 
     section{
-        width: 80%;
-        height: 40vh;   
+        width: 80%; 
+        height: 33vh;       
+        
         
     }
 
@@ -22,10 +23,10 @@
     #login{
         float: right;
         width: 50%;   
-        height: 100%;     
+            
         
     }
-
+   
 
 }
 
@@ -38,7 +39,8 @@
     
     section{
         width: 80%;
-        height: 30vh;
+        height: 35vh;
+       
     }
     #img{
         float: right;
@@ -47,14 +49,12 @@
     }
     
     #login{
-        float: right;
+        float: right;  /*mudar o local da img*/
         width: 50%;         
         
     }
-    section{
-        width: 80%;
-        height: 40vh;   /*colocar float e width no #login*/
-        
-    }
+  
+
+
    
 }

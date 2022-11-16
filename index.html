@@ -7,7 +7,9 @@
     <title>Login</title>
     <link rel="stylesheet" href="estilos/style.css"  >
     <link rel="stylesheet" href="estilos/media-query.css"  >
-    
+
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
 </head>
 <body>
     <main>       
@@ -25,20 +27,36 @@
 
                 <form action="login.php" method="post">
 
+                   
+                        
                     <p class="dados">
+                        <label id="icon" for="iemail">
+                            <span class="material-symbols-outlined">person</span>
+                        </label>
                         <input type="email" name="Email" id="iemail" placeholder="seu e-mail" required >
                     </p>
+                        
+                   
 
                     <p class="dados">
+                        <label id="icon" for="isenha">
+                            <span class="material-symbols-outlined">key</span>
+                        </label>
                         <input type="password" name="Senha" id="isenha" placeholder="sua senha" required >
                     </p>
-                
-                    
-                </form> 
 
-                <input id="entrar" type="submit" value="Entrar">
-                <input id="entrar" type="submit" value="Esqueci a senha"> 
-                
+                    <p>       
+                        <label for="ientrar"></label>                 
+                        <input  id="comandos" type="submit" value="Entrar">
+                    </p>
+                    <p>
+                        <label for="isenha"></label>
+                        <input id="comandos"  type="submit" value="Esqueci a senha">
+                    </div>     
+                    
+                    
+                </form>                                    
+                            
                 
             </div>
          
