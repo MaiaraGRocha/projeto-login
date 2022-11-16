@@ -29,25 +29,8 @@
     }
     p{
         font-size: 1em;
-    }
-   
-    input{
-        text-align: center;
-        background-color: white;    
-        border-radius: 5px;
-        margin: 2px;
-        height: 30px;
-        width: 31vw;    
-        
-    }             
-    
-    .dados{
-        text-align: right ;    
-        background-color: #0d647883 ;      
-        margin: 5px;
-        height: 40px;
-        border-radius: 5px;
     } 
+   
    
 
 }
@@ -61,9 +44,11 @@
     }
     
     section{
-        width: 80%;             
+        width: 80%;   
+        height: 70%;          
             
     }
+   
 
     #img{
         float: right;
@@ -82,14 +67,10 @@
        
     }
 
-    input{
-        width: 33vw;  
-    }
-    .comandos{
-        height: 5vh;
-        width: 38.6vw;
-    }
+ 
+   
 
+ 
 
    
 }

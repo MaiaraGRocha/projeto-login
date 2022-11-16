@@ -64,8 +64,8 @@ h1{
 
 #login{
     display: block;    
-    padding: 10px;
-    
+    padding: 10px ;
+       
 }
 
 input{
@@ -80,19 +80,18 @@ input{
 
 
 .dados{
-    text-align: right ;    
+    text-align: right;
     background-color: #0d647883 ;      
-    margin: 5px;
-       
+    margin: 5px;       
     border-radius: 5px;
 }
 
 .comandos{   /*caixas ENTRAR e ESQUECI SENHA*/ 
-    
+
     display: block;
     margin: 2px;
     width: 30vw;
-    height: 6vh;
+    height: 5vh;
     background-color: #0b7286e0 ;      
     color: white;   
        
@@ -106,6 +105,7 @@ input{
     color: white;   
     
 }
+
 
 p#frase{
     font-size: 0.8em;
